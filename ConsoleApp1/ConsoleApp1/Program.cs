@@ -17,12 +17,12 @@ class Program
         //await modificarEstudiante();
         //await eliminarEstudiante();
         
-        ////Direccion 
+        ////DIRECCION
         //await guardarEstudianteYdireccion();
         //await consultarDirecciones();
         //await consultarDireccion();
         
-        ////Curso 
+        ////CURSO 
         //await guardarCurso();
         //await guardarEstudianteCurso();
         //await consultarAlumnosyCursos();
